@@ -1,2 +1,2 @@
 # Linux
-My Linux journey
+## My Linux journey
