@@ -6,6 +6,9 @@
 - Inside `test_dir`, create a file `hello.txt` with content "Hello, Linux!"  
 - Navigate into `test_dir` and display the content of `hello.txt`
 
+[View Solution](./Task1_Solution.md)
+
+
 ## Task 2: Permissions Practice
 
 - Change the file permission of `hello.txt` to read-only for others  
