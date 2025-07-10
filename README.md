@@ -6,9 +6,11 @@ Welcome to my Linux learning log! This repository captures my progress as I expl
 
 ## 📦 Repository Overview
 
-- 📘 Linux fundamentals and CLI command notes  
-- 🧪 Hands-on terminal exercises and walkthroughs  
-- ✍️ Reflections and real-world learning moments  
+This repo serves as a comprehensive record of my Linux learning journey, focusing on both foundational concepts and practical command-line skills essential for DevOps. You’ll find:
+
+- 📘 Notes on Linux fundamentals and key CLI commands    
+- 🎯 Practical insights from working with remote environments (AWS EC2) and local setups (WSL 2)  
+- 📝 Reflections on challenges faced, lessons learned, and productivity tips like aliases and shortcuts  
 
 ---
 
