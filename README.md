@@ -10,7 +10,7 @@ Welcome! This repository documents my ongoing journey exploring Linux fundamenta
   
   Step-by-step setup guides for WSL, AWS EC2, ZSH, and more.
 
-- [Resources](RESOURCES.md)
+- [Resources](RESOURCES.md) - To be updated
   
   Curated tutorials, documentation, and tools that helped me learn.
 
