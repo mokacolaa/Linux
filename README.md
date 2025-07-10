@@ -7,6 +7,7 @@ Welcome! This repository documents my ongoing journey exploring Linux fundamenta
 ## 📂 Repository Structure
 
 - [Getting Started](GETTING_STARTED.md)  (To be updated)
+  
   Step-by-step setup guides for WSL, AWS EC2, ZSH, and more.
 
 - [Resources](RESOURCES.md)  
