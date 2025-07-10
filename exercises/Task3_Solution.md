@@ -5,3 +5,6 @@
 head example.log
 tail example.log
 grep "search_term" example.log
+```
+
+[Back to Exercises](./Linux_Exercises.md)
