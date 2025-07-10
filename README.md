@@ -16,7 +16,7 @@ Welcome! This repository documents my ongoing journey exploring Linux fundamenta
   Detailed explanations of Linux concepts like file permissions, streams, and shell commands.
 
 - [Exercises](exercises/)  
-  Practical tasks and walkthroughs to reinforce learning. 
+  Highlights of practical tasks and walkthroughs that helped me reinforce my learning. 
 
 ---
 
