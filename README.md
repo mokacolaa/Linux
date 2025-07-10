@@ -1,35 +1,22 @@
 # 🐧 My Linux Learning Journey
 
-Welcome to my Linux learning log! This repository captures my progress as I explore the Linux command line and system administration basics as part of my DevOps path. It includes course notes, shell experiments, and key takeaways.
+Welcome! This repository documents my ongoing journey exploring Linux fundamentals, command-line tools, and system administration skills as part of my DevOps learning path. Here you'll find notes, exercises, config files, and reflections to help me and others build a strong Linux foundation.
 
 ---
 
-## 📦 Repository Overview
+## 📂 Repository Structure
 
-This repo serves as a comprehensive record of my Linux learning journey, focusing on both foundational concepts and practical command-line skills essential for DevOps. You’ll find:
+- [Getting Started](GETTING_STARTED.md)  
+  Step-by-step setup guides for WSL, AWS EC2, ZSH, and more.
 
-- 📘 Notes on Linux fundamentals and key CLI commands    
-- 🎯 Practical insights from working with remote environments (AWS EC2) and local setups (WSL 2)  
-- 📝 Reflections on challenges faced, lessons learned, and productivity tips like aliases and shortcuts  
+- [Resources](RESOURCES.md)  
+  Curated tutorials, documentation, and tools that helped me learn.
 
----
+- [Notes](notes/)  
+  Detailed explanations of Linux concepts like file permissions, streams, and shell commands.
 
-## 🛠️ Topics Covered
-
-- Getting started with Linux: distros, architecture, and why Linux matters  
-- Navigating directories and managing files (`ls`, `cd`, `pwd`, `mv`, `rm`, etc.)  
-- Viewing, editing, and creating files (`cat`, `nano`, `touch`, `vim`, etc.)  
-- Output inspection and filtering: `head`, `tail`, `grep`, `echo`  
-- File permissions, users & groups: `chmod`, `chown`, and understanding `ls -l`  
-- Using `sudo` for privilege escalation and safety best practices  
-- Secure connections with `ssh`: remote login and file transfer basics  
-- Streams & redirection: using `>`, `>>`, `|`, `2>`, and understanding stdin/stdout/stderr  
-- Environment variables and customizing `.bashrc` / `.zshrc`  
-- Creating aliases and shell shortcuts to boost productivity  
-- Navigating and editing with efficiency using keyboard shortcuts in the terminal  
-- Installing WSL 2 and Ubuntu on Windows  
-- ZSH, Oh My Zsh, Powerlevel10k: enhancing the terminal experience  
-- Troubleshooting common Linux setup issues 
+- [Exercises](exercises/)  
+  Practical tasks and walkthroughs to reinforce learning. 
 
 ---
 
