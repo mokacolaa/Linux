@@ -20,7 +20,7 @@ Welcome! This repository documents my ongoing journey exploring Linux fundamenta
 
 - [Exercises](exercises/)
   
-  Highlights of practical tasks and walkthroughs that helped me reinforce my learning. 
+  Highlights of practical tasks and walkthroughs that helped me reinforce my learning.
 
 ---
 
@@ -45,5 +45,11 @@ Creating aliases and learning shortcuts also helped speed up my workflow. Linux 
 💼 [LinkedIn – @mohibahmed](https://www.linkedin.com/in/mohib-ahmed-631120113/)  
 
 ---
+
+# Additional Comments:
+
+My journey so far has been both challenging and incredibly rewarding. While I’ve faced a fair share of roadblocks and moments of confusion, each issue pushed me to dig deeper and become more resourceful. Tools like OverTheWire Bandit have been instrumental, not only helping solidify my Linux fundamentals but also encouraging me to think critically, solve problems, and read ahead. Every obstacle has been a learning opportunity, and every solution a confidence boost. I’m genuinely enjoying the process and excited to keep building on what I’ve learnt.
+
+Next up Bash Scripting!
 
 
