@@ -1,6 +1,6 @@
 # 🐧 My Linux Learning Journey
 
-Welcome! This repository documents my ongoing journey exploring Linux fundamentals, command-line tools, and system administration skills as part of my DevOps learning path. Here you'll find notes, exercises, config files, and reflections to help me and others build a strong Linux foundation.
+Welcome! This repository documents my ongoing journey exploring Linux fundamentals, command-line tools, and system administration skills as part of my DevOps learning path. Here you'll find notes, exercises, config files, and reflections to help me and others build a strong Linux foundation. 
 
 ---
 
@@ -50,6 +50,6 @@ Creating aliases and learning shortcuts also helped speed up my workflow. Linux 
 
 My journey so far has been both challenging and incredibly rewarding. While I’ve faced a fair share of roadblocks and moments of confusion, each issue pushed me to dig deeper and become more resourceful. Tools like OverTheWire Bandit have been instrumental, not only helping solidify my Linux fundamentals but also encouraging me to think critically, solve problems, and read ahead. Every obstacle has been a learning opportunity, and every solution a confidence boost. I’m genuinely enjoying the process and excited to keep building on what I’ve learnt.
 
-Next up Bash Scripting!
+Next up Bash Scripting!!!
 
 
